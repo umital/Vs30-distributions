@@ -1,6 +1,6 @@
 # Vs30-distributions
 
-This repository documents python script (`Analysis.ipynb`) used for generating results for the following peer-reviewed publication:
+This repository documents the python script (`Analysis.ipynb`) used for generating results for the following peer-reviewed publication:
 
 Mital, U., S. Ahdi, J. Herrick, J. Iwahashi, A. Savvaidis, and A. Yong, 2021, A Probabilistic Framework to Model Distributions of VS30, Bull. Seism. Soc. Am., 16, doi: 10.1785/0120200281.
 <br>
